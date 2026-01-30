@@ -28,7 +28,7 @@ The QR code is generated using a free public QR API.
 
 ---
 
-## 📂 Project Structure
+
 ## 📂 Project Structure
 
 - QR-Code-Generator/
