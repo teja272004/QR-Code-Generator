@@ -29,10 +29,12 @@ The QR code is generated using a free public QR API.
 ---
 
 ## 📂 Project Structure
-QR-Code-Generator/
-│
-├── index.html
-├── style.css
+## 📂 Project Structure
+
+- QR-Code-Generator/
+  - index.html
+  - style.css
+
 
 ---
 
